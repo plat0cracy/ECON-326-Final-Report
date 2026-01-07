@@ -1,0 +1,7 @@
+This project empirically compares the explanatory power of the Capital Asset Pricing Model (CAPM) and the Fama–French Three-Factor Model using historical asset return data. The analysis focuses on evaluating how well each model explains excess returns through formal econometric testing, rather than on investment performance or portfolio construction.
+
+Monthly excess returns are regressed on their respective risk factors to estimate factor loadings and abnormal returns (alpha). The models are assessed using statistical significance of coefficients, goodness-of-fit measures, and hypothesis tests on alpha to evaluate whether additional factors improve explanatory power relative to CAPM.
+
+To ensure valid inference, the project includes diagnostic and robustness checks for key time-series assumptions, including tests for serial correlation and heteroskedasticity. Robust standard errors are applied where appropriate to account for potential violations of classical assumptions. The results are interpreted in an asset-pricing context to assess whether the Fama–French Three-Factor Model provides a statistically meaningful improvement over CAPM.
+
+Overall, the project demonstrates the use of structured statistical analysis to compare competing theoretical models, quantify uncertainty, and communicate empirical findings clearly—skills central to applied econometrics and consulting-style problem solving.
