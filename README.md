@@ -64,8 +64,6 @@ The results indicate that CAPM omits relevant sources of systematic risk capture
 
 ## Repository Structure
 
-data/        Raw and cleaned return and factor data  
-code/        Regression, diagnostic testing, and robustness scripts  
-output/      Tables and regression results  
-report/      Final paper and figures  
+data/        Raw and cleaned return and factor data   
+report/      Final paper and figures (pdf and html)  
 
